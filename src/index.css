@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(33, 41, 62);
+  color: #fffff1;
 }
+
+/*rgb(20, 28, 37)*/
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
